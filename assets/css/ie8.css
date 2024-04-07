@@ -33,7 +33,7 @@
 /* Header */
 
 	#nav ul li a {
-		color: #452103;
+		color: #888;
 	}
 
 		#nav ul li a.active {
@@ -41,7 +41,7 @@
 		}
 
 	#headerToggle .toggle {
-		background-color: #452103;
+		background-color: #888;
 	}
 
 /* Main */
