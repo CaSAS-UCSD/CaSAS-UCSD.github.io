@@ -1,10 +1,8 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Members
 layout: page
 icon: fa-book
-order: 3
-hide: true
+order: 2
 ---
 
 I love books! Here are some I'm reading now:
