@@ -19,9 +19,7 @@ Minerva received her BS degree in Biotechnology Engineering at Universidad Auton
 <h2> Ebony Michelle Argaez </h2>
 Ebony Michelle Argaez is a 1st year PhD student at the University of California San Diego Biological Sciences Program. She is interested in studying the origin of diversity, how genes are expressed during development, what genetic mechanisms are conserved and how they evolve to create novel structures. At the University of Maryland, Ebony received her BS degree in Biological Sciences and BA in French Language & Literature as well as her MSc in Entomology. For her MSc she was assessing the effectiveness and risk of RNA interference implementation in the milkweed bug, Oncopeltus fasciatus. She looks forward to working with CASAs to promote cultural awareness and provide a stronger and supportive community to underrepresented minorities.
 
-<img align="right" src="/assets/images/Argaez_hs.jpeg" alt="Ebony Michelle Argaez" style="height: 100px; width:100px;"/>
-
-
+<img src="/assets/images/Argaez_hs.jpeg" alt="Ebony Michelle Argaez" style="height: 100px; width:100px; align:right"/>
 <h2> Isabel Mejia </h2>
 Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC San Diego in Matt Daugherty's lab. Isabel is interested in how viral proteases antagonize host proteins through an evolutionary perspective. Isabel is a Shurl and Kay Curci Foundation Scholar and NSF-GRFP Fellow. Isabel received her BS in general biology with a minor in global health from UC San Diego. After graduating, Isabel took two gap years and worked as a staff research associate at the Lundquist Institute. Isabel is currently a part of the leadership of SACNAS at UC San Diego and is passionate about creating inclusive communities for other minority scientists. 
 
