@@ -12,12 +12,17 @@ Born and raised in Caracas, Venezuela, Alex graduated from the Universidad Simó
 </span>
 
 <h3> Minerva Contreras </h3>
-<img align='right' src="/assets/images/Contreras_hs.jpg" alt="Alex Chaim" style="height: 325px; width:250px; "/>
+<img align='right' src="/assets/images/Contreras_hs.jpg" alt="Minerva Contreras" style="height: 325px; width:250px; "/>
 <span style="font-size:1em;">
 Minerva Contreras is a 5th year PhD student at University of California San Diego Neurosciences Graduate Program, under the supervision of Nicola Allen, PhD, at the Salk Institute. Minerva is interested in astrocytes' regulatory role in experience-dependent plasticity. Minerva is a National Academies of Science Engineering and Medicine Pre-doctoral Ford Fellow and a San Diego ARCS Scholar. 
 Minerva received her BS degree in Biotechnology Engineering at Universidad Autonoma de Queretaro, Mexico, and her continuing MS in Neuroscience at UCSD. She is passionate about making scientific careers accessible to underrepresented minorities. She co-created the Colors of the Brain-KIBM Undergrad Scholars Program and is the host of Crash Course Biologia. Outside of lab, Minerva loves going on road trips with her wife and two dogs, Glia and Loki, she named the former. 
 </span>
 
+<h3> Christian Cazares </h3>
+<img align='right' src="/assets/images/Cazares_hs.jpg" alt="Christian Cazares" style="height: 325px; width:250px; "/>
+<span style="font-size:1em;">
+Christian Cazares is a postdoctoral research fellow in the Voytek Lab at UC San Diego and co-founder of Colors of the Brain, a summer undergraduate research program at UC San Diego. His current research aims to bridge human cortical organoid physiology with human behavior and EEG in neurodevelopmental disorder patient populations. His long-term goal is to start a lab that researches cortical circuits for social decision-making and their disruption in neurodevelopmental disorders.
+</span>
 
 <h3> Isabel Mejia </h3>
 <img align='right' src="/assets/images/Mejia_hs.jpg" alt="Isabel Mejia" style="height: 325px; width:250px; "/>
