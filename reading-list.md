@@ -1,7 +1,7 @@
 ---
 title: Members
 layout: page
-icon: fa-book
+icon: fa-user
 order: 2
 ---
 
