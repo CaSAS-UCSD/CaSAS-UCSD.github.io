@@ -21,13 +21,13 @@ Ebony Michelle Argaez is a 1st year PhD student at the University of California 
 
 
 <h2> Isabel Mejia </h2>
-<img src="/assets/images/Mejia_hs.jpg" alt="Isabel Mejia" style="height: 100px; width:100px;"/>
+<img align='right' src="/assets/images/Mejia_hs.jpg" alt="Isabel Mejia" />
 Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC San Diego in Matt Daugherty's lab. Isabel is interested in how viral proteases antagonize host proteins through an evolutionary perspective. Isabel is a Shurl and Kay Curci Foundation Scholar and NSF-GRFP Fellow. Isabel received her BS in general biology with a minor in global health from UC San Diego. After graduating, Isabel took two gap years and worked as a staff research associate at the Lundquist Institute. Isabel is currently a part of the leadership of SACNAS at UC San Diego and is passionate about creating inclusive communities for other minority scientists. 
 
 
 
 
 <h2> Andrea Ruiz D'Argence </h2>
-<img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence" style="height: 100px; width:100px;"/>
+<img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence" />
 Andrea Ruiz D'Argence is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall. 
 
