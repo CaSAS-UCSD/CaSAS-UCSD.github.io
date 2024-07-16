@@ -34,18 +34,7 @@ Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC 
 <h3> Andrea Ruiz D'Argence </h3>
 <img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence"  style="height: 325px; width:250px;"/>
 <span style="font-size:1em;">
-<a href="https://andyrdar.github.io/" target="_blank"> Andrea Ruiz D'Argence </a> is a senior undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in the Voytek Lab studying how visual processing is encoded in the brain 
- non-oscillatory, aperiodic 
- event-related changes in electrophysiological activity 
-stimulus-evoked visual processing changes in aperiodic activity 
-
-the biophysical mechanisms of aperiodic activity in the visual cortex. 
-
-n human and NHP models might cause a difference in stimulus-evoked visual processing. We aim to: 1) establish whether LFPs in the primate visual cortex exhibit event-related changes in aperiodic activity, and 2) characterize the biophysical mechanisms of these aperiodic shifts.
-
-Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, Mexico. Andrea 
-
-She is now preparing to apply to grad school this fall.
+<a href="https://andyrdar.github.io/" target="_blank"> Andrea Ruiz D'Argence </a> is a senior undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in the Voytek Lab studying the neural mechanisms of visual encoding and how these biophysical processes might be affected by event-related non-oscillatory activity. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, Mexico. Andrea is currently in the beginning stages of her honor's project and preparing to apply to grad school this fall.
 </span>
 
 
