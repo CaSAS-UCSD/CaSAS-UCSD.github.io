@@ -34,22 +34,8 @@ Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC 
 <h3> Andrea Ruiz D'Argence </h3>
 <img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence"  style="height: 325px; width:250px;"/>
 <span style="font-size:1em;">
-Andrea Ruiz D'Argence is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall.
+<a href="https://andyrdar.github.io/"> Andrea Ruiz D'Argence </a> is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall.
 </span>
-
-figure {
-  display: inline-block;
-}
-
-figcaption {
-  text-align: center;
-}
-<a href="https://andyrdar.github.io/">
-  <figure>
-    <img align='right' src="/assets/images/Dargence_hs.jpg" alt="demo image" style="height: 325px; width:250px;"/>
-    <figcaption>This is an example of a link to my website</figcaption>
-  </figure>
-</a>
 
 
 <h3> Ebony Michelle Argaez </h3>
@@ -62,5 +48,5 @@ Ebony Michelle Argaez is a 1st year PhD student at the University of California 
 <h3> Ricardo Lozoya </h3>
 <img align='right' src="/assets/images/Lozoya_hs.jpg" alt="Ricardo Lozoya" style="height: 325px; width:250px;">
 <span style="font-size:1em;">
-text text text
+Ricardo Lozoya is a PhD student in the Neurosciences Graduate Program at UC San Diego, where he works in the lab of Richard Daneman. His research focuses on understanding the fundamental biology of the blood vessels that permeate the peripheral nervous system and how these vessels are affected in pathologies such as trauma and diabetes. Ricardo received his B.S. degree in Biochemistry and Cell Biology from Rice University, after which he worked at the University of Heidelberg in Germany under a Fulbright research grant. Outside of lab, he loves backpacking, distance running, and salsa dancing. Ricardo’s work is supported in part by a grant to UCSD from the HHMI Gilliam Fellows Program.
 </span>
