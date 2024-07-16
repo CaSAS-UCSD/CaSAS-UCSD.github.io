@@ -32,9 +32,9 @@ Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC 
 
 
 <h3> Andrea Ruiz D'Argence </h3>
-<img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence"  style="height: 325px; width:250px;"/>
+<img align='right' src="/assets/images/Dargence_hs.jpg" alt="Andrea Ruiz D'Argence"  style="height: 325px; width:250px;"href="https://andyrdar.github.io/" target="_blank"/>
 <span style="font-size:1em;">
-<a href="https://andyrdar.github.io/"> Andrea Ruiz D'Argence </a> is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall.
+<a href="https://andyrdar.github.io/" target="_blank"> Andrea Ruiz D'Argence </a> is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall.
 </span>
 
 
