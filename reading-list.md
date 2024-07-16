@@ -37,9 +37,30 @@ Isabel Mejia is a 2nd year PhD student in the Biological Sciences Program at UC 
 Andrea Ruiz D'Argence is a 3rd year undergraduate student majoring in Cognitive and Behavioral Neurosciences at UC San Diego. She is a research assistant in Brad Voytek's lab studying the biophysical mechanisms of aperiodic activity in the visual cortex. Conjointly, she is a research assistant in the lab of Dr. Kay Tye at the Salk Institute studying the timecourse of social isolation. Before coming to San Diego, she completed her high school education at the Instituto Tecnológico y de Estudios Superiores de Monterrey in Chiapas, México. She is now preparing to apply to grad school this fall.
 </span>
 
+figure {
+  display: inline-block;
+}
+
+figcaption {
+  text-align: center;
+}
+<a href="https://andyrdar.github.io/">
+  <figure>
+    <img align='right' src="/assets/images/Dargence_hs.jpg" alt="demo image" style="height: 325px; width:250px;"/>
+    <figcaption>This is an example of a link to my website</figcaption>
+  </figure>
+</a>
+
 
 <h3> Ebony Michelle Argaez </h3>
 <img align='right' src="/assets/images/Argaez_hs.jpeg" alt="Ebony Michelle Argaez" style="height: 325px; width:250px;"/>
 <span style="font-size:1em;">
 Ebony Michelle Argaez is a 1st year PhD student at the University of California San Diego Biological Sciences Program. She is interested in studying the origin of diversity, how genes are expressed during development, what genetic mechanisms are conserved and how they evolve to create novel structures. At the University of Maryland, Ebony received her BS degree in Biological Sciences and BA in French Language & Literature as well as her MSc in Entomology. For her MSc she was assessing the effectiveness and risk of RNA interference implementation in the milkweed bug, Oncopeltus fasciatus. She looks forward to working with CASAs to promote cultural awareness and provide a stronger and supportive community to underrepresented minorities.
+</span>
+
+
+<h3> Ricardo Lozoya </h3>
+<img align='right' src="/assets/images/Lozoya_hs.jpg" alt="Ricardo Lozoya" style="height: 325px; width:250px;">
+<span style="font-size:1em;">
+text text text
 </span>
